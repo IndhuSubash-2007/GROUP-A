@@ -7,7 +7,7 @@ semester: 1
 course_code: "GXEST104"
 course_title: "Introduction to Electrical and Electronics Engineering"
 language: "English"
-contributor: "Extracted from official syllabus PDF"
+contributor: ""
 ---
 
 # GXEST104: Introduction to Electrical and Electronics Engineering
