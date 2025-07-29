@@ -27,7 +27,7 @@ contributor: "IndhuSubash-2007"
 - Fundamental theorem for linear systems (homogeneous & non-homogeneous, no proof)
 - Eigenvalues and eigenvectors of matrices
 - Diagonalization of matrices  
-*Textbook Reference: Text 1 – Sections 7.3, 7.4, 7.5, 8.1, 8.4*
+
 
 ### 🔹 Module 2 (9 Hours)
 - Vector Spaces: Examples – ℝⁿ and Mₘₓₙ
@@ -35,7 +35,7 @@ contributor: "IndhuSubash-2007"
 - Linear dependence & independence
 - Basis, Dimension of a vector space
 - Coordinate representation in ℝⁿ, Change of basis (Transition Matrix, no proof)  
-*Textbook Reference: Text 2 – Sections 4.2 to 4.5, 4.7*
+  
 
 ### 🔹 Module 3 (9 Hours)
 - Vector length, Unit vector, Dot product, Angle between vectors
@@ -43,7 +43,7 @@ contributor: "IndhuSubash-2007"
 - Orthogonal projections, Orthogonal/Orthonormal sets and basis
 - Gram-Schmidt process (no proof)
 - Least squares problem, Projection onto a subspace  
-*Textbook Reference: Text 2 – Sections 5.1 to 5.4*
+
 
 ### 🔹 Module 4 (9 Hours)
 - Linear Transformations and properties
@@ -51,7 +51,7 @@ contributor: "IndhuSubash-2007"
 - Kernel and Range of linear transformations, their basis
 - Rank and Nullity, Sum of Rank and Nullity (no proof)
 - Matrices for Linear Transformations  
-*Textbook Reference: Text 2 – Sections 6.1 to 6.3*
+
 
 ---
 
