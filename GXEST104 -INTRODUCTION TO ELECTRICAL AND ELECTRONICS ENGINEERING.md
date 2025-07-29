@@ -7,7 +7,7 @@ semester: 1
 course_code: "GXEST104"
 course_title: "Introduction to Electrical and Electronics Engineering"
 language: "English"
-contributor: ""
+contributor: "IndhuSubash-2007"
 ---
 
 # GXEST104: Introduction to Electrical and Electronics Engineering
