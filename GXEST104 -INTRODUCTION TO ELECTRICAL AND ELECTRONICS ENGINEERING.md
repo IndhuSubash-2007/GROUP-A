@@ -1,7 +1,7 @@
 ---
 country: "India"
 university: "KTU"
-branch: "All (Group A & B)"
+branch: "Group A & B"
 version: "2024"
 semester: 1
 course_code: "GXEST104"
