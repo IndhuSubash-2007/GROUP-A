@@ -1,13 +1,12 @@
-
 ---
 country: "India"
+university: "KTU"
+branch: "Group A & B"
+version: "2024"
+semester: "S2"
 course_code: "GXEST204"
 course_title: "Programming in C"
-university: "KTU"
-semester: "S2"
-version: "2024"
 language: "English"
-branch: "Group A & B"
 contributor: "IndhuSubash-2007"
 ---
 
